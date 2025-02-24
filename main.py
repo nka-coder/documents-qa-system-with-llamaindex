@@ -9,6 +9,7 @@ load_dotenv()
 # Define the path to the documents folder
 DOCUMENTS_FOLDER = "documents"
 
+
 def load_documents_from_folder(folder_path):
     documents = []
     for filename in os.listdir(folder_path):

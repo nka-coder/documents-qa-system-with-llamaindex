@@ -156,4 +156,3 @@ pip install llama-index --upgrade
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for details.
-
