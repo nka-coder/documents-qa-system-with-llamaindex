@@ -1,5 +1,5 @@
 import os
-from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Document
+from llama_index.core import VectorStoreIndex, Document
 from PyPDF2 import PdfReader
 from dotenv import load_dotenv
 
